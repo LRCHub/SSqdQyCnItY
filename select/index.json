@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "skin",
+  "base_artist": "Lir.E",
+  "createdAt": "2025-12-10T06:10:14.266572Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skin (Sarabeth) - Remastered Version",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_Skin_(Sarabeth)_-_Remastered_Version_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stranger Under My Skin",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/02_Stranger_Under_My_Skin_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Screaming Skin",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/03_Screaming_Skin_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hunting My Own Skin",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Hunting_My_Own_Skin_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Old Skin",
+      "artist": "Young Widows",
+      "has_synced": false,
+      "path": "select/05_Old_Skin_Young_Widows.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Skin",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/06_Dark_Skin_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perfect Skin",
+      "artist": "Lloyd Cole",
+      "has_synced": false,
+      "path": "select/07_Perfect_Skin_Lloyd_Cole.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunlight On Your Skin",
+      "artist": "Lil Peep feat. ILoveMakonnen",
+      "has_synced": true,
+      "path": "select/08_Sunlight_On_Your_Skin_Lil_Peep_feat._ILoveMakonnen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunlight On Your Skin (feat. ILoveMakonnen)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/09_Sunlight_On_Your_Skin_(feat._ILoveMakonnen)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Under Your Skin",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/10_Under_Your_Skin_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance On My Skin",
+      "artist": "Mi and L'au",
+      "has_synced": false,
+      "path": "select/11_Dance_On_My_Skin_Mi_and_L'au.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skin",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/12_Skin_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skin",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/13_Skin_Madonna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skin Storm",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/14_Skin_Storm_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Skin of the Night",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/15_Skin_of_the_Night_M83.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Soft Skin",
+      "artist": "Mountain Man",
+      "has_synced": true,
+      "path": "select/16_Soft_Skin_Mountain_Man.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Velvet Skin",
+      "artist": "MISOGI",
+      "has_synced": true,
+      "path": "select/17_Velvet_Skin_MISOGI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dead Skin Mask",
+      "artist": "Nadja",
+      "has_synced": false,
+      "path": "select/18_Dead_Skin_Mask_Nadja.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "skin",
+      "artist": "Lir.E",
+      "has_synced": false,
+      "path": "select/pl_01_skin_Lir.E.txt"
+    }
+  ]
+}
